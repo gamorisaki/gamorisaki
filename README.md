@@ -2,6 +2,8 @@
 
 Hi! My name is Gabriel, I'm a Computer Engineering student. I like listening to music while reading web novels.
 
+<br/>
+
 ##
 
 #### Technologies that I have experience
@@ -12,6 +14,9 @@ Hi! My name is Gabriel, I'm a Computer Engineering student. I like listening to 
   <img alt="gamorisaki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="gamorisaki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+
+<br/>
 
 ##
 
