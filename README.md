@@ -2,7 +2,7 @@
 
 Hi! My name is Gabriel, I'm a Computer Engineering student. I like listening to music while reading web novels.
 
-<br/>
+<br />
 
 ##
 
@@ -18,7 +18,7 @@ Hi! My name is Gabriel, I'm a Computer Engineering student. I like listening to 
 </div>
 
 
-<br/>
+<br />
 
 ##
 
